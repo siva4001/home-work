@@ -1,0 +1,103 @@
+.header{
+    height: 70px;
+    width: 505px;
+    border: 1px solid;
+    display: flex;
+}
+.name{ 
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+    top: 16px;
+    left: 26px;
+    display: flex;
+    gap: 5px;
+}
+.name01{
+    display: flex;
+    gap: 5px;
+}
+
+.edit-icon {
+    height: 30px;
+    width: 56px;
+    text-align: center;
+    position: relative;
+    right: -327px;
+    top: 16px;}
+.header02{
+    height: 135px;
+    width: 500px;
+    border: 1px solid red;
+    
+}
+.note{ 
+    height: 120px;
+    width: 120px;
+    border: 1px solid rebeccapurple;
+    position: relative;
+    top: 5px;
+    left: 25px;
+    }
+.note01{
+    height: 30px;
+    width: 75px;
+    border: 1px solid rebeccapurple;
+    position: relative;
+    top: 10px;
+    left: 18px;
+}
+.note02{
+
+}
+.header03{
+    height: 40px;
+    width: 500px;
+    border: 1px solid red;
+    display: flex;
+}
+.message00{
+    height: 20px;
+    width: 100px;
+    border: 1px solid red;
+    position: relative;
+    top: 8px;
+    left: 10px;
+    font-weight: 700;
+    font-size: 16px;
+}
+.message01{
+    height: 20px;
+    width: 100px;
+    border: 1px solid red;
+    position: relative;
+    top: 8px;
+    right: -280px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.body{
+      width: 500px;
+      border: 1px solid red;
+
+}
+.body01{
+    height: 120px;
+    width: 350px;
+    position: relative;
+    border: 1px solid red;
+    left: 20px;
+    display: flex;
+}
+.box01{ height: 100px;
+    width: 100px;
+    border: 1px solid red;}
+.box02{
+     height: 25px;
+    width: 200px;
+    border: 1px solid red;}
+.box03{
+    height: 25px;
+    width: 250px;
+    border: 1px solid red;}
